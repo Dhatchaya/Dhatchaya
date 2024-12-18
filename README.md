@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Dhatchaya!
 
 # About me
-I am a trainee software engineer with a passion for backend development, database optimization, and crafting efficient solutions. Currently, I am gaining hands-on experience in technologies like Spring Boot, Jmix, and PostgreSQL, while conducting academic research in cybersecurity, focusing on innovative ways to use mmWave radar technology in the realm of cybersecurity. Leveraging my skills and experiences, I am committed to pursuing a fulfilling career in software engineering, while continuously learning and improving to contribute to impactful projects.
+I am a trainee software engineer passionate about backend and frontend development, as well as database optimization. Currently, I am gaining hands-on experience in technologies like Spring Boot, Jmix, and PostgreSQL, while conducting academic research on mmWave radar technology in cybersecurity. I aspire to build a rewarding career in software engineering, continuously learning and growing to create meaningful solutions.
 
 <!--
 **Dhatchaya/Dhatchaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
