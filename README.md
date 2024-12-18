@@ -5,14 +5,14 @@ I am a trainee software engineer passionate about backend and frontend developme
 
 ## Languages and Tools
 
-### Backend Languages
-![Java](https://img.shields.io/badge/Java-%23F7B93E.svg?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-%23F7B93E.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7B93E.svg?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
-### Frontend Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7B93E.svg?style=flat&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23F7B93E.svg?style=flat&logo=html5&logoColor=white)
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
-### Mobile App Development
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+### Frontend Development
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23F7B93E.svg?style=flat&logo=html5&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -22,6 +22,7 @@ I am a trainee software engineer passionate about backend and frontend developme
 
 ### Identity and Access Management
 ![Keycloak](https://img.shields.io/badge/Keycloak-%23E96D00.svg?style=flat&logo=keycloak&logoColor=white)
+
 
 <!--
 **Dhatchaya/Dhatchaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
